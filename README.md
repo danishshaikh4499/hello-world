@@ -1,7 +1,7 @@
 # hello-world
 class hello
 {
-public ststic void main()
+public static void main()
 {
 System.out.println("Hello World");
 }
